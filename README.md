@@ -17,7 +17,6 @@ Humanoid-v4 TQC 训练工程
 训练奖励
 ![alt text](results/reward_curve.png)
 
-参考视频：
-![Uploading episode_3_distance_416.07m.gif…]()
+视频在eval_results中
 
 
