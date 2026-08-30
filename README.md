@@ -18,4 +18,4 @@ Humanoid-v4 TQC 训练工程
 ![alt text](results/reward_curve.png)
 
 参考视频：
-<video controls src="eval_results/videos/episode_3_distance_416.07m.mp4" title="Title"></video>
+<video src="eval_results/videos/episode_3_distance_416.07m.mp4" controls width="640"></video>
